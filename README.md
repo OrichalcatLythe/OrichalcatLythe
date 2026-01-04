@@ -11,6 +11,8 @@ Also for most personal project I mainly use a propreitary version control instea
 - ASM (Mostly from reverse engineering)
 - C (Currently relearning)
 - Python (2 Years+ , prefer not to use)
+**Known HDLs**
+- Verilog (Basic, learning)
 
 ## Currently Working On
 - Personal Website written in Nim
