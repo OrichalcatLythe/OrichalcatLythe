@@ -17,9 +17,7 @@ Also for most personal project I mainly use a propreitary version control instea
 
 ## Currently Working On
 - Personal Website written in Nim
-- Personal Discord Bot written in Nim
-- CHIP-8 Interpreter written in Zig
-- An Untitled Adventure game for GBA written in Zig
+- CHIP-8 Emulator written in Nim
 
 <!--
 **OrichalcatLythe/OrichalcatLythe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
